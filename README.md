@@ -9,11 +9,11 @@ This repository contains my journey through the 2026 Data Engineering ZoomCamp b
 
 ## Tech Stack 
 
-Cloud: |GCP|AWS
-LAKEHOUSE: |GCS | S3 + Apache Iceberg
-WAREHOUSE: BigQuery |Snowflake
-IAC: Terraform
-Ingestion: DLT|Airbyte| AWS Kinesis
-Transformation| DBT + Snowflake
-CICD| Github Actions (Slim CICD)
-Testing| Great Expectation|DBT Test
+- Cloud: |GCP|AWS
+- LAKEHOUSE: |GCS | S3 + Apache Iceberg
+- WAREHOUSE: BigQuery |Snowflake
+- IAC: Terraform
+- Ingestion: DLT|Airbyte| AWS Kinesis
+- Transformation| DBT + Snowflake
+- CICD| Github Actions (Slim CICD)
+- Testing| Great Expectation|DBT Test
